@@ -36,3 +36,24 @@ const myFunction = function(){
 //console.log(typeof scoreValue);
 //;'console.log(typeof outsideTemp);
 
+console.log(typeof anotherId);
+
+let myChannelname = "gayathrireddydotcom"
+
+let anothername = myChannelname
+anothername = "the buzz"
+
+console.log(myChannelname);
+console.log(anothername);
+
+let userOne = {
+    email: "user@gmail.com",
+    upi: "user@ybl"
+}
+
+let userTwo = userOne
+
+userTwo.email = "gayathri@gooogle.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
