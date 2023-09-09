@@ -31,5 +31,8 @@ const myFunction = function(){
     console.log("Hello World");
 }
 
-console.log(typeof heros);
+//console.log(typeof bigNumber);
+//console.log(typeof heros);
+//console.log(typeof scoreValue);
+//;'console.log(typeof outsideTemp);
 
